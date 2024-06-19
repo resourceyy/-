@@ -44,38 +44,36 @@ https://youtu.be/EGyvFBopGDc
 
 #### 2.3 결과물
 
-* 초기 화면(1)
+* 초기 화면
 
   ![초기화면](https://github.com/resourceyy/-/assets/172123425/c028c4d2-4bcb-4f72-b9a7-57fc478e0673)
 
 
-* 난이도별 화면(2.4.5)
+* 난이도별 화면
 
-![easy](https://github.com/resourceyy/-/assets/172123425/429a3dec-5e01-4420-9e03-f1d324233b80)
-![mediem](https://github.com/resourceyy/-/assets/172123425/9ef1dd97-6c54-4901-98d5-8d779294d7b1)
-![hard](https://github.com/resourceyy/-/assets/172123425/dbd2eb19-cbb8-44b1-9b5d-59324f1b9850)
-
-
-* 뉴 게임 버튼 선택 시 (3)
-
-![뉴 게임](https://github.com/resourceyy/-/assets/172123425/7cc4f1c8-db70-4f6a-8477-8a129249ff60)
+![쉬움](https://github.com/resourceyy/-/assets/172123425/ba2cbbb1-56ce-4257-9a16-212979bcd937)
+![중간](https://github.com/resourceyy/-/assets/172123425/b6dd3516-4f7c-49c9-98da-3efac3a23714)
+![어려움](https://github.com/resourceyy/-/assets/172123425/00bb7c5e-ec04-4724-8088-5a98e8239538)
 
 
-* 힌트 버튼 선택 시 (5.6)
+
+* 뉴 게임 버튼 선택 시
+
+![뉴게임](https://github.com/resourceyy/-/assets/172123425/0862f5b6-b1e0-4171-a4f4-57353c7c9add)
+
+
+
+* 힌트 버튼 선택 시
 
 ![힌트 전](https://github.com/resourceyy/-/assets/172123425/c9490de5-ad93-4f21-8796-0f001fbf9cb0)
 ![힌트 후](https://github.com/resourceyy/-/assets/172123425/308c5602-bc42-4ef5-bac5-5d323e87ee99)
 
 
-* 완료 버튼 선택 시(7.8)
+* 완료 버튼 선택 시
 
 ![미완료시](https://github.com/resourceyy/-/assets/172123425/04becce6-2f29-4316-931c-822dc156b978)
 ![완료시](https://github.com/resourceyy/-/assets/172123425/0db9a556-bd6c-4810-8374-547244c7240b)
 
-
-* 메인 화면
-
-  ![메인](https://user-images.githubusercontent.com/43109143/171424723-f2a3ce77-256d-4be1-bd38-ead23373aa91.png)
 
 
 
